@@ -1,2 +1,2 @@
 # platformer_pygame
-Сделано: уровень, управление, ускорение полета, текстурки и звуки
+Done: level, control character, flight acceleration, textures and sounds
